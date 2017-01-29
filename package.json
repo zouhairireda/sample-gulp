@@ -1,0 +1,28 @@
+{
+  "name": "firsttestgulp",
+  "version": "1.0.0",
+  "description": "gulp testing",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cssnext": "^1.0.1",
+    "gulp-csso": "^2.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-util": "^3.0.8",
+    "minimist": "^1.2.0"
+  },
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "gulp",
+    "task",
+    "runner"
+  ],
+  "author": "redazouhairi",
+  "license": "ISC"
+}
